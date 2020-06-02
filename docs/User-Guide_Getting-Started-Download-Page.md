@@ -1,6 +1,6 @@
 **Preparation**
 
-Make sure you have a **good & reliable** SD card and a **proper power supply**. The XZ-compressed  should be written with an approved imaging tool capable of validating the burn.
+Make sure you have a **good & reliable** SD card and a **proper power supply**. The XZ-compressed image  should be written with an approved imaging tool capable of validating the burn.
 
 **Approved Imaging Tools**
 
